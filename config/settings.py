@@ -25,7 +25,7 @@ SECRET_KEY = 'upram_moj@!$90e$d51uxe*o7^g%gvj97jqd5%$8$zcqyy(u@%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
